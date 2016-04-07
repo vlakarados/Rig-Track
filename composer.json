@@ -1,0 +1,11 @@
+{
+    "name": "vlakarados/rig-hrack",
+    "description": "Routing package of Rig",
+    "authors": [
+        {
+            "name": "Sergey Telshevsky",
+            "email": "vlakarados@gmail.com"
+        }
+    ],
+    "require": {}
+}
